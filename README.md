@@ -6,5 +6,5 @@
           |___|                                    
 ``` 
 ## ThymeSavour Assets
-* This is a repository for all of the assets used in the ThymeSavour application
+* A repository for all of the assets used in the ThymeSavour application
 * All assets were created with Aseprite
